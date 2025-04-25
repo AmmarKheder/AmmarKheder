@@ -29,7 +29,6 @@ Tested on 5 years of PM2.5 data across northern China.
 
 - 🌐 [ammarkheder.com](https://ammarkheder.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ammar-kheder-a37053193)
-- 🧪 [ResearchGate](https://www.researchgate.net/profile/Ammar-Kheder) *(if applicable)*
 
 ---
 
