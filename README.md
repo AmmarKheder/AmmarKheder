@@ -1,10 +1,6 @@
 # Ammar Kheder
 
-PhD student in AI for Atmospheric Chemistry and Physics  
-📍 Based in Finland | 🧠 Researcher | 💻 Python Enthusiast
-
-I work at the intersection of environmental science, deep learning, and scientific visualization.  
-My focus is on building models to understand and predict air pollution dynamics, and exploring how mathematics can generate art.
+I am currently pursuing a PhD at the Atmospheric Modeling Centre (AMC) in Lahti, in collaboration with LUT University and the University of Helsinki. My project focuses on developing a neural network-based emulator to improve air quality and Earth system models. By integrating advanced Al algorithms and detailed chemical mechanisms, the aim is to overcome the limitations of traditional models and enhance the accuracy of environmental predictions at both regional and global scales.
 
 ---
 
@@ -15,7 +11,7 @@ My focus is on building models to understand and predict air pollution dynamics,
 Each week, I publish a new fractal created entirely with Python.  
 Some are purely mathematical (Mandelbrot, Julia, Burning Ship), others are data-driven — using real-world variables like PM2.5 levels to control the visual output.
 
-<img src="https://github.com/AmmarKheder/fractals/blob/main/burning_ship/burning_ship_inferno.jpeg?raw=true" width="700"/>
+<img src="https://github.com/AmmarKheder/fractals/burning_ship/burning_ship_inferno.jpeg?raw=true" width="700"/>
 
 ---
 
