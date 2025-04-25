@@ -11,7 +11,7 @@ I am currently pursuing a PhD at the Atmospheric Modeling Centre (AMC) in Lahti,
 Each week, I publish a new fractal created entirely with Python.  
 Some are purely mathematical (Mandelbrot, Julia, Burning Ship), others are data-driven — using real-world variables like PM2.5 levels to control the visual output.
 
-<img src="https://github.com/AmmarKheder/fractals/burning_ship/burning_ship_inferno.jpeg?raw=true" width="700"/>
+<img src="https://github.com/AmmarKheder/fractals/burning_ship//buring_ship/burning_ship_inferno.png>
 
 ---
 
