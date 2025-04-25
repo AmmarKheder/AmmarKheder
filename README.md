@@ -4,7 +4,7 @@ I am currently pursuing a PhD at the Atmospheric Modeling Centre (AMC) in Lahti,
 
 ---
 
-## 🔬 Featured Projects
+##  Featured Projects
 
 ### [🌀 Fractals — Code-Generated Infinite Geometry](https://github.com/AmmarKheder/fractals)
 
