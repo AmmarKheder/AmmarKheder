@@ -8,7 +8,6 @@ I am currently pursuing a PhD at the Atmospheric Modeling Centre (AMC) in Lahti,
 
 ### [🌀 Fractals — Code-Generated Infinite Geometry](https://github.com/AmmarKheder/fractals)
 
-Each week, I publish a new fractal created entirely with Python.  
 Some are purely mathematical (Mandelbrot, Julia, Burning Ship), others are data-driven — using real-world variables like PM2.5 levels to control the visual output.
 
 | Static Burning Ship Fractal | Animated Zoom Loop |
@@ -62,3 +61,4 @@ Originally trained on French Base Set 2 cards, the model generalizes well to Eng
 `Computer Vision` • `Spatio-Temporal Modeling` • `Large-scale Deep Learning` • `Environmental Data Analysis`  
 `Air Quality Forecasting`  • `Neural kNN` • `LSTM + Attention` • `Cyclic Time Encoding`  
 ` Reanalysis Data`
+
